@@ -7,3 +7,10 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+.vagrant*
+.swp
+.cache
+.mix
+.hex
+.npm
+.bash_history
